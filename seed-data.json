@@ -1,0 +1,28 @@
+{
+  "auctionItems": [
+    {
+      "title": "Vintage Rolex Watch",
+      "description": "A rare 1960s Rolex Submariner in excellent condition",
+      "start_price": 5000,
+      "reserve_price": 8000
+    },
+    {
+      "title": "First Edition Book",
+      "description": "First edition of 'To Kill a Mockingbird' signed by Harper Lee",
+      "start_price": 2500,
+      "reserve_price": 4000
+    },
+    {
+      "title": "Antique Persian Rug",
+      "description": "Hand-woven Persian rug from the 19th century, 8x10 feet",
+      "start_price": 3000,
+      "reserve_price": 5000
+    },
+    {
+      "title": "Classic Guitar",
+      "description": "1970 Gibson Les Paul in sunburst finish",
+      "start_price": 4500,
+      "reserve_price": 6000
+    }
+  ]
+}
