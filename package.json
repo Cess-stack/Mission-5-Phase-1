@@ -2,14 +2,17 @@
   "name": "mongodb-seed-cli",
   "version": "1.0.0",
   "description": "CLI tool for seeding auction data into MongoDB",
-  "main": "cli.js",
+  "main": "server.js",
   "scripts": {
     "seed": "node cli.js seed",
-    "delete": "node cli.js delete"
+    "delete": "node cli.js delete",
+    "start": "node server.js"
   },
   "dependencies": {
     "mongodb": "^6.3.0",
     "commander": "^11.1.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
   }
 }
